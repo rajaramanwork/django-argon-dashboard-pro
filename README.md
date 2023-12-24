@@ -220,3 +220,10 @@ At this point, the product should be LIVE.
 
 ---
 [Django Argon PRO](https://appseed.us/product/argon-dashboard-pro/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
+
+
+============================Run  book Commands=====================================
+1) Ensure that license key in the requirements.txt ( Source from Notebook )
+2) Install all Web app Dependencies 
+pip install -r requirements.txt 
+3) run the command > py manage.py runserver
